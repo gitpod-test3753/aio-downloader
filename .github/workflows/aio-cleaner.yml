@@ -1,4 +1,4 @@
-name: Clean Platform Media
+name: aio-cleaner
 
 on:
   workflow_dispatch:
