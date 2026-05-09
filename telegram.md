@@ -7,6 +7,79 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/19 22:23
+---
+
+## pm_afshaa — post 90434
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90434_1778352789.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴پوتین: ایران به روسیه در زمینه هسته‌ای اعتماد داره و برای این اعتماد دلایل موجهی داره. مسکو آماده‌اس تا اورانیوم غنی‌شده ایرانی رو ذخیره کنه؛ روسیه همچنان مایل است تا اورانیوم غنی‌شده ایران رو در اختیار بگیره و تهران میتونه به انتقال آن به یک کشور دوست اعتماد کنه.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90433
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90433_1778352790.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴پوتین: ادامه درگیری بین ایران و آمریکا به نفع کسی نیست و این وضعیت روسیه رو با توجه به روابط خوبش با ایران و کشورهای خلیج فارس در موقعیت دشواری قرار میده.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## kianmeli1 — post 87299
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ساعاتی مانده به پایان ضرب‌الاجل ترامپ برای پاسخ جمهوری اسلامی به پیشنهاد توافق، سخنگوی وزارت خارجه گفت تهران عجله‌ای ندارد. همزمان العربیه خبر داد نتانیاهو به دولت آمریکا اعلام کرده توافقی که منجر به برچیدن کامل برنامه هسته‌ای ایران نشود قابل قبول نیست.
+https://t.me/kianmeli1
+</div>
+
+## FarsiVOA — post 217292
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺پرزیدنت ترامپ با بازنشر مقاله‌ای درباره اهمیت جلوگیری از دستیابی رژیم ایران به سلاح هسته‌ای: این موضع ملت ما است
+
+▪️دونالد ترامپ، رئیس جمهوری آمریکا، مقاله‌ای را که بر اساس یک نظرسنجی و با مضمون حمایت اکثر آمریکایی‌ها از جلوگیری از دستیابی رژیم ایران به سلاح هسته‌ای و مهم‌تر دانستن آن در مقایسه با پایان دادن به جنگ منتشر شده است، بازنشر کرد.
+
+⬇️ بیشتر بخوانید:
+
+https://ir.voanews.com/a/us-trump-truth-post-survey-iran-epic-fury/8148313.html/?nocach=1
+</div>
+
+## IranianMinds — post 19846
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 فاکس ‌نیوز:
+
+اگر پیشنهاد امشب تهران برای توافق با آمریکا منفی باشد، جنگ به سرعت شروع خواهد شد.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19845
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 کانال ۱۳ اسرائیل: موساد به کمتر از سرنگونی جمهوری‌اسلامی راضی نیست. ارتش اسرائیل هم وضعیت فعلی رو فرصتی مناسب برای ضربه زدن به رژیم ایران می‌دونه.
+
+@IranianMinds
+</div>
+
+---
 📅 بروزرسانی: 1405/02/19 22:12
 ---
 
