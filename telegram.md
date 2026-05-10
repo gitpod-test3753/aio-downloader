@@ -7,6 +7,100 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 11:02
+---
+
+## FarsiVOA — post 217320
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_217320_1778398357.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت کشور سوریه می‌گوید طی یک عملیات «امنیتی سریع» با مشارکت اداره مبارزه با تروریسم، وجیه علی عبدالله دستیار نظامی بشار اسد، دیکتاتور سابق سوریه را بازداشت کرده است.
+
+حساب وزارت کشور سوریه در شبکه ایکس با اعلام این خبر گفته است سرلشکر وجیه علی عبدالله به مدت ۱۳ سال سمت مدیر دفتر امور نظامی «بشار اسدِ جنایتکار فراری» را بر عهده داشت.
+
+این دستگیری بخشی از یک کارزار علیه مقامات نظامی و امنیتی سابق سوریه است که متهم به دست داشتن در نقض حقوق بشر، بازداشت‌های غیرقانونی، شکنجه و کشتار شهروندان در دوران بشار اسد هستند.
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 13808
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+این بنده خدا نمیدونست من با ایدیش میتونم کامنتهای قبلیش رو ببینم ! 😄
+
+حداقل برای کسی این کامنت رو بزار که ۵ ماه هرشب اتاق جنگ نداشته باشه 🤦🏻
+</div>
+
+## Hranews — post 112854
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دادستان تهران علیه عباس عبدی، صادق زیباکلام و دو رسانه اعلام جرم کرد
+
+
+❗️
+❗️
+❗️
+❗️
+❗️ – مرکز رسانه قوه قضاییه از #اعلام_جرم دادستان تهران علیه عباس عبدی و صادق زیباکلام خبر داد. همچنین دو رسانه منتشرکننده اظهارات این افراد نیز با گشایش پرونده قضایی مواجه شده‌اند.
+
+ادامه مطلب
+
+#عباس_عبدی
+#صادق_زیباکلام
+
+↘️
+@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑
+</div>
+
+## alonews — post 118999
+
+<div align="center">
+  <a href="telegram/content/alonews_118999_1778398358.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈احتمال شنیده شدن صدای انفجار کنترل شده از ساعت ۹ تا ۱۵ امروز در شهر اصفهان وجود دارد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118998
+
+<div align="center">
+  <a href="telegram/content/alonews_118998_1778398358.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## alonews — post 118997
+
+<div align="center">
+  <a href="telegram/content/alonews_118997_1778398359.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈پزشکیان: دشمن پس از ناکامی در جنگ نظامی، تلاش دارد جنگ را به عرصه اقتصاد منتقل کند و مردم باید با نقش‌آفرینی و همراهی خود، این توطئه را نیز ناکام بگذارند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118996
+
+<div align="center">
+  <a href="telegram/content/alonews_118996_1778398359.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈جمهوری اسلامی افغانستان(طالبان) اعلام کرد از ۲۰روز دیگر اینترنت نسل پنجم در کابل و هرات راه اندازی خواهد شد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 10:52
 ---
 
