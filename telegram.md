@@ -7,6 +7,259 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 19:43
+---
+
+## VahidOOnLine — post 239334
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239334_1778429603.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، ایرانیان ساکن هلند و جمهوری چک، یکشنبه ۲۰ اردیبهشت با فراخوان شاهزاده رضا پهلوی و در اعتراض به اعدام‌های جمهوری اسلامی، در شهرهای آمستردام و پراگ تجمع کردند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239333
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239333_1778429606.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در گفت‌وگو با سی‌بی‌اس نیوز گفت جنگ با ایران تمام نشده، زیرا به گفته او هنوز اورانیوم غنی‌شده، سایت‌های غنی‌سازی، نیروهای نیابتی مورد حمایت ایران و برنامه موشک‌های بالستیک باقی مانده‌اند.
+
+نتانیاهو گفت بخش زیادی از توان جمهوری اسلامی تضعیف شده، اما هنوز «کارهایی هست که باید انجام شود».
+
+او درباره چگونگی خارج کردن اورانیوم با غنای بالا از ایران گفت در صورت وجود توافق، می‌توان وارد شد و آن را خارج کرد و این «بهترین راه» است.
+
+نتانیاهو در پاسخ به این پرسش که آیا بدون توافق می‌توان اورانیوم را با زور خارج کرد، از توضیح درباره گزینه‌ها و برنامه‌های نظامی خودداری کرد، اما این موضوع را «ماموریتی فوق‌العاده مهم» خواند.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239332
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239332_1778429608.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌
+کلن | آلمان؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239331
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239331_1778429610.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رگنسبورگ | المان؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239330
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239330_1778429614.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌
+آرهوس | دانمارک؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239329
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239329_1778429616.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت خارجه اردن حمله با پهپاد به کویت را محکوم کرد و آن را نقض آشکار قوانین بین‌المللی و منشور سازمان ملل و تجاوز به حاکمیت کویت دانست.
+اردن تاکید کرد در کنار کویت ایستاده و از هر اقدامی که این کشور برای حفظ حاکمیت، امنیت و سلامت شهروندان و ساکنانش انجام دهد، حمایت می‌کند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239328
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239328_1778429617.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نخستین تراکنش آزمایشی موفق پرداخت الکترونیکی از طریق شبکه‌های ویزا و مسترکارت در سوریه را پس از ۱۵ سال وقفه انجام شد.
+
+به گزارش اس‌پی‌تودی، این تراکنش یک آزمایش کنترل‌شده بوده و به معنای راه‌اندازی عمومی خدمات نیست، اما نشان می‌دهد پرداخت‌های بین‌المللی با کارت می‌توانند در چارچوب مقررات بانکی سوریه پردازش و تسویه شوند.
+
+این اقدام پس از تفاهم‌نامه بیمیرا با بانک مرکزی سوریه و تصمیم این بانک برای مجاز کردن همکاری با شبکه‌های پرداخت جهانی انجام شده است. بانک مرکزی سوریه این روند را گامی برای افزایش شمول مالی و باز کردن بازار این کشور به سیستم‌های مالی بین‌المللی دانسته است.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOnline — post 75383
+
+<div align="center">
+  <img src="telegram/content/VahidOnline_75383_1778429618.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رحیم نادعلی، معاون فرهنگی سپاه «محمد رسول‌الله» تهران گفت: «در جشن بزرگ پیوند آسمانی زوج‌های جان‌فدا، خودروهای جیپ جنگی برای جابه‌جایی عروس و دامادها در نظر گرفته شده که با گل‌آرایی، پرچم جمهوری اسلامی و تصاویر رهبری تزئین شده و زوج‌ها در این خودروها در مراسم حضور خواهند یافت.»
+
+او افزود زوج‌های شرکت‌کننده قرار است با «ماشین‌های عروسی به شکل جیپ نظامی» و «خودروهای نظامی گل‌کاری‌شده» در سطح شهر حضور پیدا کنند تا «فضای شهر را به یک شکل هنری و نظامی» درآورند.
+
+به گفته او، هدف این است که نشان داده شود این «زوج‌های جانفدا» جان خود را «زیر پرچم جمهوری اسلامی تقدیم این نظام خواهند کرد» و «از هیچ چیز نمی‌ترسند.»
+@VahidOOnLine
+
+📡 @VahidOnline
+</div>
+
+## IranIntlTV — post 336501
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336501_1778429619.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ویدیوهای رسیده به ایران اینترنشنال نشان می‌دهد ایرانیان مقیم پاریس روز ۲۰ اردیبهشت‌ماه در پاسخ به فراخوان شاهزاده رضا پهلوی، با برگزاری راهپیمایی و تجمع در این شهر حضور یافتند.
+@iranintltv
+</div>
+
+## IranIntlTV — post 336500
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336500_1778429621.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، ایرانیان ساکن هلند و جمهوری چک، یکشنبه ۲۰ اردیبهشت با فراخوان شاهزاده رضا پهلوی و در اعتراض به اعدام‌های جمهوری اسلامی، در شهرهای آمستردام و پراگ تجمع کردند.
+</div>
+
+## IranIntlTV — post 336499
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/336499" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی اخبار نیم‌روزی | یکشنبه ۲۰ اردیبهشت
+@iranintlTV
+</div>
+
+## IranIntlTV — post 336498
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336498_1778429626.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت خارجه اردن حمله با پهپاد به کویت را محکوم کرد و آن را نقض آشکار قوانین بین‌المللی و منشور سازمان ملل و تجاوز به حاکمیت کویت دانست.
+اردن تاکید کرد در کنار کویت ایستاده و از هر اقدامی که این کشور برای حفظ حاکمیت، امنیت و سلامت شهروندان و ساکنانش انجام دهد، حمایت می‌کند.
+https://iranintl.com/202605108954
+</div>
+
+## ManotoTV — post 105260
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105260_1778429627.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در گفت‌وگو با سی‌بی‌اس نیوز گفت جنگ با ایران تمام نشده، زیرا به گفته او هنوز اورانیوم غنی‌شده، سایت‌های غنی‌سازی، نیروهای نیابتی مورد حمایت ایران و برنامه موشک‌های بالستیک باقی مانده‌اند.
+
+نتانیاهو گفت بخش زیادی از توان جمهوری اسلامی تضعیف شده، اما هنوز «کارهایی هست که باید انجام شود».
+
+او درباره چگونگی خارج کردن اورانیوم با غنای بالا از ایران گفت در صورت وجود توافق، می‌توان وارد شد و آن را خارج کرد و این «بهترین راه» است.
+
+نتانیاهو در پاسخ به این پرسش که آیا بدون توافق می‌توان اورانیوم را با زور خارج کرد، از توضیح درباره گزینه‌ها و برنامه‌های نظامی خودداری کرد، اما این موضوع را «ماموریتی فوق‌العاده مهم» خواند.
+</div>
+
+## FarsiVOA — post 217353
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺دونالد ترامپ: شکست نظامی رژیم ایران به معنای پایان کامل عملیات رزمی نیست
+
+◾️دونالد ترامپ، رئیس جمهوری ایالات متحده، در گفت‌وگویی اختصاصی با برنامه «فول مژر» به میزبانی شریل اتکیسون، گفت حکومت ایران از نظر نظامی «شکست خورده» است و توان بازسازی سریع ظرفیت‌های نظامی و هسته‌ای خود را ندارد.
+
+⬇️ بیشتر بخوانید:
+
+https://ir.voanews.com/a/national-desk-sharyl-attkisson-president-trump-interview/8148497.html?withmediaplayer=1
+</div>
+
+## Persian_Trend_Official — post 13837
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تصمیم گرفتم لایو های شبانه رو از این به بعد، حدود ساعت 20 به وقت ایران اجرا کنم .
+</div>
+
+## manototv — post 105260
+
+<div align="center">
+  <a href="telegram/content/manototv_105260_1778429628.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در گفت‌وگو با سی‌بی‌اس نیوز گفت جنگ با ایران تمام نشده، زیرا به گفته او هنوز اورانیوم غنی‌شده، سایت‌های غنی‌سازی، نیروهای نیابتی مورد حمایت ایران و برنامه موشک‌های بالستیک باقی مانده‌اند.
+
+نتانیاهو گفت بخش زیادی از توان جمهوری اسلامی تضعیف شده، اما هنوز «کارهایی هست که باید انجام شود».
+
+او درباره چگونگی خارج کردن اورانیوم با غنای بالا از ایران گفت در صورت وجود توافق، می‌توان وارد شد و آن را خارج کرد و این «بهترین راه» است.
+
+نتانیاهو در پاسخ به این پرسش که آیا بدون توافق می‌توان اورانیوم را با زور خارج کرد، از توضیح درباره گزینه‌ها و برنامه‌های نظامی خودداری کرد، اما این موضوع را «ماموریتی فوق‌العاده مهم» خواند.
+</div>
+
+## alonews — post 119108
+
+<div align="center">
+  <a href="telegram/content/alonews_119108_1778429631.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈حاکم امارات:
+امان از روزی که خشم عربی ما بیدار شود
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119107
+
+<div align="center">
+  <a href="telegram/content/alonews_119107_1778429631.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈پوتین در سال ۲۰۲۲: یک فرد معتاد به مواد مخدر و نئونازی‌.
+
+
+🔴پوتین در سال ۲۰۲۶: آقای زلنسکی.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119106
+
+<div align="center">
+  <a href="telegram/content/alonews_119106_1778429632.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رای دادگاه صادرشد: آپارات ۳۶۰۰ میلیارد تومان به تلویزیون بدهد!
+
+
+🔴وبسایت آپارات در بیانیه‌ای از صدور رأی جدید دادگاه در پرونده شکایت صداوسیما خبر داد و نوشت: طی ۱۱ سال گذشته، آپارات با ۲۶ پرونده و شکایت از سوی سازمان صداوسیما مواجه بوده است؛ در حالی که ماهیت این سرویس، از ابتدا یک پلتفرم کاربرمحور برای انتشار محتوای کاربران بوده است.
+
+
+🔴در تازه‌ترین رأی صادرشده، روز گذشته مدیرعامل آپارات به پرداخت حدود ۳.۶ همت خسارت بابت انتشار محتوایی که توسط کاربران بر بستر این پلتفرم بارگذاری شده محکوم شده و دادگاه، مسئولیت این محتوا را متوجه پلتفرم دانسته است.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 19:33
 ---
 
