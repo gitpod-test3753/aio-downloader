@@ -3,10 +3,12 @@ name: google-play-downloader
 on:
   workflow_dispatch:
     inputs:
-      package_name:
-        description: >
-          Android package name.
-          Example: com.google.android.youtube
+      app:
+        description: >-
+          Google Play URL or Android package name.
+          Examples:
+            URL:  https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en
+            Package name:  com.google.android.youtube
         required: true
         type: string
       architecture:
@@ -34,9 +36,22 @@ jobs:
         with:
           persist-credentials: true
 
-      - name: Generate random identifier to prevent name collisions
-        id: random
-        run: echo "value=$(cat /dev/urandom | tr -dc 'a-z' | fold -w 5 | head -n 1)" >> $GITHUB_OUTPUT
+      - name: Determine package name
+        id: pkg
+        run: |
+          INPUT="${{ inputs.app }}"
+          if echo "$INPUT" | grep -qE '^https?://'; then
+            PACKAGE=$(echo "$INPUT" | grep -oP '(?<=id=)[^&]*')
+            if [ -z "$PACKAGE" ]; then
+              echo "Error: Could not extract package name from URL"
+              exit 1
+            fi
+            echo "Extracted: $PACKAGE"
+          else
+            PACKAGE="$INPUT"
+            echo "Using raw: $PACKAGE"
+          fi
+          echo "package=$PACKAGE" >> $GITHUB_OUTPUT
 
       - name: Install system dependencies
         run: |
@@ -64,7 +79,7 @@ jobs:
           DOWNLOAD_DIR="$RUNNER_TEMP/apk_downloads"
           mkdir -p "$DOWNLOAD_DIR"
 
-          CMD="./gplay download ${{ inputs.package_name }} -a $ARCH -o $DOWNLOAD_DIR"
+          CMD="./gplay download ${{ steps.pkg.outputs.package }} -a $ARCH -o $DOWNLOAD_DIR"
           if [ "$MERGE" = "true" ]; then
             CMD="$CMD -m"
           fi
@@ -72,7 +87,6 @@ jobs:
           echo "Running: $CMD"
           $CMD
 
-          # Verify at least one file was downloaded
           if [ -z "$(ls -A "$DOWNLOAD_DIR" 2>/dev/null)" ]; then
             echo "Error: No files downloaded"
             exit 1
@@ -81,28 +95,29 @@ jobs:
           echo "download_dir=$DOWNLOAD_DIR" >> $GITHUB_OUTPUT
 
       - name: Archive each downloaded file (split ZIP)
-        env:
-          RANDSTR: ${{ steps.random.outputs.value }}
         run: |
           DOWNLOAD_DIR="${{ steps.download.outputs.download_dir }}"
-          UPLOAD_DIR="google-play/$RANDSTR"
+          UPLOAD_DIR="${{ github.workspace }}/google-play"   # ← Absolute, robust path
           mkdir -p "$UPLOAD_DIR"
 
-          cd "$DOWNLOAD_DIR"
-          shopt -s nullglob
-          files=(*)
-          if [ ${#files[@]} -eq 0 ]; then
-            echo "No files to process."
-            exit 1
-          fi
+          # Create unique random suffix (5 letters)
+          RNDSTR=$(tr -dc 'a-z' < /dev/urandom | head -c5)
 
-          for file in "${files[@]}"; do
-            if [ -f "$file" ]; then
-              echo "→ Archiving $file"
-              # -j : strip path, −s 99m : split at 99 MB
-              zip -j -s 99m -r "../$UPLOAD_DIR/${file}.zip" "$file"
+          shopt -s nullglob
+          file_found=false
+          for f in "$DOWNLOAD_DIR"/*; do
+            if [ -f "$f" ]; then
+              file_found=true
+              base=$(basename "$f")
+              echo "→ Archiving $base"
+              zip -j -s 99m "$UPLOAD_DIR/${base}_${RNDSTR}.zip" "$f"
             fi
           done
+
+          if [ "$file_found" = false ]; then
+            echo "Error: No regular files in $DOWNLOAD_DIR"
+            exit 1
+          fi
 
       - name: Cleanup temporary download directory
         run: rm -rf "${{ steps.download.outputs.download_dir }}"
@@ -122,7 +137,7 @@ jobs:
           fi
 
           git add google-play/
-          git commit -m "Download ${{ inputs.package_name }} (${{ inputs.architecture }}) [skip ci]" || echo "Nothing to commit"
+          git commit -m "Download ${{ steps.pkg.outputs.package }} (${{ inputs.architecture }}) [skip ci]" || echo "Nothing to commit"
 
           RETRIES=5
           for i in $(seq 1 $RETRIES); do
@@ -141,4 +156,5 @@ jobs:
               fi
             fi
           done
+
           echo "All files uploaded to the 'google-play' folder."
