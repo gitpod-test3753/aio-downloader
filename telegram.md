@@ -7,6 +7,501 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/25 01:25
+---
+
+## VahidOOnLine — post 240193
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240193_1778795758.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بنیامین نتانیاهو در مراسم روز اورشلیم در «تپه مهمات» اعلام کرد جمهوری اسلامی «ضعیف‌تر از همیشه» شده است و اسرائیل به مقابله قاطع با «تهدیدهای اسلام افراطی» ادامه خواهد داد.
+نخست‌وزیر اسرائیل همچنین گفت اگر اسرائیل در سال ۲۰۲۵ و اوایل امسال به برنامه‌های هسته‌ای و موشکی ایران حمله نکرده بود، حکومت ایران اکنون به سلاح هسته‌ای دست یافته بود.
+نتانیاهو با اشاره به درگیری‌های اخیر با جمهوری اسلامی، حماس و حزب‌الله گفت اقدامات نظامی اسرائیل و همکاری نزدیک‌تر با دولت ترامپ «چهره خاورمیانه را تغییر داده است.»
+او همچنین تاکید کرد اورشلیم «برای همیشه» تحت کنترل اسرائیل باقی خواهد ماند.
+
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240192
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240192_1778795758.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ستاد فرماندهی مرکزی ارتش آمریکا، سنتکام، پنجشنبه ۲۴ اردیبهشت در اکس با انتشار تصویری اعلام کرد نیروهای تفنگدار دریایی آمریکا در جریان تمرین‌های نظامی از بالگرد «سی هاوک» بر عرشه ناو «یو‌اس‌اس تریپولی» عملیات فرود انجام داده‌اند.
+سنتکام اعلام کرد ناو «تریپولی» یکی از بیش از ۲۰ ناو جنگی آمریکایی است که در محاصره دریایی جمهوری اسلامی مشارکت دارند. این نهاد همچنین اعلام کرد از زمان آغاز این محاصره، نیروهای آمریکایی مسیر ۷۲ کشتی تجاری را تغییر داده و چهار شناور را از کار انداخته‌اند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240191
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240191_1778795759.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وای‌نت گزارش داد اسحاق هرتزوگ، رییس جمهوری اسرائیل سفر خود به نیویورک برای سخنرانی در مراسم دانش‌آموختگی مدرسه الهیات یهودی وابسته به دانشگاه کلمبیا را لغو کرده و قرار است به‌صورت مجازی در این مراسم شرکت کند.
+به نوشته وای‌نت، این تصمیم پس از انتقادها و اعتراض‌های دانشجویان حامی فلسطین به حضور هرتزوگ گرفته شد، هرچند دفتر ریاست‌جمهوری اسرائیل تاکید کرده لغو سفر ارتباطی با این اعتراض‌ها نداشته است.
+وای‌نت همچنین گزارش داد هم‌زمان اسرائیل خود را برای احتمال ازسرگیری اقدام نظامی آمریکا علیه جمهوری اسلامی آماده می‌کند و رهبران سیاسی به ارتش دستور داده‌اند آمادگی‌های لازم را در نظر بگیرد.
+
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240190
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️بنیامین نتانیاهو، نخست‌وزیر اسرائیل، پنجشنبه ۲۴ اردیبهشت‌ماه، در مراسم روز اورشلیم گفت جمهوری اسلامی «ضعیف‌تر از همیشه» شده و دولت اسرائیل «قوی‌تر از همیشه» است.
+
+او با اشاره به عملیات نظامی اسرائیل در منطقه و حمایت دولت دونالد ترامپ، رئیس‌جمهوری آمریکا، گفت: «قدرتی که ما در جبهه‌های نبرد به کار گرفتیم، اتحاد نزدیک با دولت ترامپ در آمریکا، قاطعیت برای ضربه زدن به دشمنانمان در عمق خاکشان و دور از مرزهایمان، و مناطق حایلی که پیرامون خود در غزه، لبنان و سوریه ایجاد کردیم؛ همه این‌ها چهره خاورمیانه را تغییر داده است.»
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240189
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️کاظم غریب‌آبادی، معاون حقوقی و بین‌المللی وزارت خارجه جمهوری اسلامی، در اجلاس وزرای خارجه کشورهای عضو بریکس در دهلی‌نو، با اشاره به حمله نظامی مشترک آمریکا و اسرائیل علیه اهداف نظامی جمهوری اسلامی گفت: «ما خواهان موضعی یکپارچه در گروه بریکس بر پایه مخالفت با هدف قرار دادن نظامی کشورهای عضو و تقویت اصول امنیت و ثبات میان کشورهای این گروه هستیم.»
+
+او تاکید کرد کشورهای عضو بریکس باید در برابر اقدام‌های نظامی علیه اعضای این گروه، موضعی هماهنگ و مشترک اتخاذ کنند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240188
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240188_1778795759.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت خارجه قطر به العربیه اعلام کرد چند پهپاد ایرانی را در نزدیکی حریم هوایی خود سرنگون کرده است. این وزارتخانه افزود در تماس‌های خود با جمهوری اسلامی بر ضرورت بازگشایی تنگه هرمز تأکید کرده و ابراز امیدواری کرده است توافقی برای تضمین امنیت منطقه‌ای حاصل شود.
+
+وزارت خارجه قطر همچنین گفت کشورهای خلیج فارس خواهان بازگشایی تنگه هرمز و توقف حملات جمهوری اسلامی هستند و از تلاش‌های دیپلماتیک حمایت کرده و بر پرهیز از جنگ تأکید دارند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 11251
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ در تروث : «وقتی رئیس‌جمهور شی با بیانی بسیار سنجیده از ایالات متحده به‌عنوان کشوری که شاید در حال افول باشد یاد کرد، منظور او آسیب عظیمی بود که ما در چهار سال دوران جو بایدنِ خواب‌آلود و دولت بایدن متحمل شدیم؛ و در این مورد، او صددرصد درست می‌گفت.
+
+کشور ما با مرزهای باز، مالیات‌های سنگین، ترویج تغییر جنسیت برای همه، حضور مردان در ورزش زنان، سیاست‌های موسوم به تنوع و شمول، توافق‌های تجاری وحشتناک، جرم و جنایت گسترده و بسیاری مسائل دیگر، آسیب غیرقابل‌تصوری دید!
+@withyashar
+رئیس‌جمهور شی به هیچ‌وجه به رشد شگفت‌انگیزی اشاره نمی‌کرد که ایالات متحده در طول شانزده ماه فوق‌العاده دولت ترامپ به جهان نشان داده است؛ دورانی که شامل رکورد تاریخی بازار بورس و صندوق‌های بازنشستگی، پیروزی نظامی و روابط شکوفا با ونزوئلا، درهم‌کوبیدن نظامی ایران (ادامه دارد!)، قدرتمندترین ارتش جهان با اختلاف بسیار زیاد، تبدیل دوباره آمریکا به یک قدرت اقتصادی عظیم، جذب رکورد هجده تریلیون دلار سرمایه‌گذاری خارجی در آمریکا، بهترین بازار کار تاریخ ایالات متحده با بیشترین تعداد شاغلان تاریخ کشور، پایان دادن به سیاست‌های ویرانگر موسوم به تنوع و شمول و بسیاری موفقیت‌های دیگر بوده که فهرست کردن همه آنها ممکن نیست.
+
+در حقیقت، رئیس‌جمهور شی بابت این همه موفقیت بزرگ در چنین مدت کوتاهی به من تبریک گفت.
+
+دو سال پیش، ما واقعاً کشوری در حال افول بودیم. در این مورد کاملاً با رئیس‌جمهور شی موافقم! اما حالا ایالات متحده داغ‌ترین و پررونق‌ترین کشور جهان است و امیدوارم رابطه ما با چین از همیشه قوی‌تر و بهتر باشد!»
+@withyashar
+</div>
+
+## WithYashar — post 11250
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فاکس نیوز : تو سفر ترامپ، بین مأموران سرویس مخفی آمریکا و پلیس چین، تنش ایجاد شده و درگیری لفظی و حتی فیزیکی هم پیش اومده.
+@withyashar
+</div>
+
+## WithYashar — post 11249
+
+<div align="center">
+  <img src="telegram/content/WithYashar_11249_1778795760.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کت کش ها در مراسم اربعین کتلت سرلشکر سیدعبدالرحیم موسوی در قم
+@withyashar
+</div>
+
+## WithYashar — post 11248
+
+<div align="center">
+  <a href="telegram/content/WithYashar_11248_1778795760.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‏ترامپ به دلیل مرگ برادر بزرگترش که بر اثر نوشیدن الکل جانش را از دست داد ،مشروب نمیخوره ،ولی اینجا جرعه‌ای از آن را مینوشه و به نشانه احترام به رئیس جمهور شی جین پینگ
+‏ولی داشت بالا می‌آورد
+@withyashar
+</div>
+
+## WithYashar — post 11247
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+طبق گزارش‌های امروز، هرتزوگ رئیس جمهور اسرائیل حضور حضوری خود در نیویورک را لغو کرده و گفته به دلیل «شرایطی که مانع سفر شده» نمی‌تواند به آمریکا بیاید.
+اما این سفر یک سفر رسمی سیاسی به کاخ سفید نبود،بلکه مربوط به شرکت او در مراسم فارغ‌التحصیلی «Jewish Theological Seminary» در نیویورک بود.
+
+در عین حال، خبر جداگانه‌ای هم درباره سفر احتمالی بنیامین ناتانیاهو به آمریکا وجود داشت که دفتر او گفته بود هنوز برنامه قطعی‌ای برایش نهایی نشده است
+@withyashar
+</div>
+
+## FoxNewsTwitter — post 341754
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341754_1778795762.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: President Trump tells @seanhannity that Chinese President Xi Jinping offered to assist the U.S. in negotiating with Iran to reopen the Strait of Hormuz.
+
+Trump notes that China’s significant oil interests play a major role in its desire to keep the critical waterway open and stable.
+
+“President Xi would like to see a deal made. He would like to see a deal made. And he did offer, he said, ‘If I can be of any help at all, I would like to be of help.’”
+
+"He said 'If I could be of any help whatsoever, I would like to help.'"
+
+The full interview airs tonight at 9 p.m. ET on 'Hannity.'
+</div>
+
+## IranIntlTV — post 337225
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337225_1778795763.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بنیامین نتانیاهو در مراسم روز اورشلیم در «تپه مهمات» اعلام کرد جمهوری اسلامی «ضعیف‌تر از همیشه» شده است و اسرائیل به مقابله قاطع با «تهدیدهای اسلام افراطی» ادامه خواهد داد.
+نخست‌وزیر اسرائیل همچنین گفت اگر اسرائیل در سال ۲۰۲۵ و اوایل امسال به برنامه‌های هسته‌ای و موشکی ایران حمله نکرده بود، حکومت ایران اکنون به سلاح هسته‌ای دست یافته بود.
+نتانیاهو با اشاره به درگیری‌های اخیر با جمهوری اسلامی، حماس و حزب‌الله گفت اقدامات نظامی اسرائیل و همکاری نزدیک‌تر با دولت ترامپ «چهره خاورمیانه را تغییر داده است.»
+او همچنین تاکید کرد اورشلیم «برای همیشه» تحت کنترل اسرائیل باقی خواهد ماند.
+
+https://iranintl.com/202605146830
+</div>
+
+## IranIntlTV — post 337224
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337224_1778795763.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وای‌نت گزارش داد اسحاق هرتزوگ، رییس جمهوری اسرائیل سفر خود به نیویورک برای سخنرانی در مراسم دانش‌آموختگی مدرسه الهیات یهودی وابسته به دانشگاه کلمبیا را لغو کرده و قرار است به‌صورت مجازی در این مراسم شرکت کند.
+به نوشته وای‌نت، این تصمیم پس از انتقادها و اعتراض‌های دانشجویان حامی فلسطین به حضور هرتزوگ گرفته شد، هرچند دفتر ریاست‌جمهوری اسرائیل تاکید کرده لغو سفر ارتباطی با این اعتراض‌ها نداشته است.
+وای‌نت همچنین گزارش داد هم‌زمان اسرائیل خود را برای احتمال ازسرگیری اقدام نظامی آمریکا علیه جمهوری اسلامی آماده می‌کند و رهبران سیاسی به ارتش دستور داده‌اند آمادگی‌های لازم را در نظر بگیرد.
+
+https://iranintl.com/202605142377
+</div>
+
+## IranIntlTV — post 337223
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337223_1778795764.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+همزمان با آغاز دور جدید مذاکرات مستقیم اسرائیل و لبنان در واشینگتن، مقام‌های اسرائیلی گفتند هدف این گفت‌وگوها خلع سلاح حزب‌الله و رسیدن به توافق صلح است.
+
+گفت‌وگو با ابراهیم روشندل، دیپلمات سابق و کارشناس امنیت ملی
+@iranintltv
+</div>
+
+## IranIntlTV — post 337222
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337222_1778795766.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+استیو دینز، سناتور جمهوری‌خواه، به مرضیه حسینی، خبرنگار ایران‌اینترنشنال، گفت: «او تلاش می‌کند به جنگ ۴۷ ساله‌ای که این رژیم از طریق فعالیت‌های تروریستی خود علیه ایالات متحده و جهان آزاد به راه انداخته پایان دهد.»
+@iranintltv
+</div>
+
+## IranIntlTV — post 337221
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337221_1778795767.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+چند کشور منطقه شامل بحرین، کویت، عربستان سعودی، امارات متحده عربی، قطر و اردن در نامه‌ای فوری به سازمان ملل متحد، جمهوری اسلامی را مسئول خسارت‌های واردشده به برخی تأسیسات و یک کشتی در منطقه دانسته و خواستار پرداخت غرامت شده‌اند.
+@iranintltv
+</div>
+
+## IranIntlTV — post 337220
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337220_1778795769.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اف‌بی‌آی اعلام کرد برای دریافت اطلاعات درباره مونیکا ویت، مامور سابق ضدجاسوسی آمریکا که به ایران پناهنده شده، ۲۰۰ هزار دلار جایزه تعیین کرده است.
+
+او متهم است اطلاعات محرمانه را در اختیار تهران قرار داده و از ۱۳ سال پیش در ایران زندگی می‌کند.
+
+گزارش اردوان روزبه، خبرنگار ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## IranIntlTV — post 337219
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337219_1778795770.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت خارجه قطر به العربیه اعلام کرد چند پهپاد ایرانی را در نزدیکی حریم هوایی خود سرنگون کرده است. این وزارتخانه افزود در تماس‌های خود با جمهوری اسلامی بر ضرورت بازگشایی تنگه هرمز تأکید کرده و ابراز امیدواری کرده است توافقی برای تضمین امنیت منطقه‌ای حاصل شود.
+
+وزارت خارجه قطر همچنین گفت کشورهای خلیج فارس خواهان بازگشایی تنگه هرمز و توقف حملات جمهوری اسلامی هستند و از تلاش‌های دیپلماتیک حمایت کرده و بر پرهیز از جنگ تأکید دارند.
+https://iranintl.com/202605149165
+</div>
+
+## Shin_Persian — post 6002
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_6002_1778795771.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn Thu, 14 May 2026 21:45:19 UTC President Trump @POTUS: "When President Xi very elegantly referred to the United States as perhaps being a declining nation, he was referring to the tremendous damage we suffered during the four years of…
+</div>
+
+## Shin_Persian — post 6001
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Thu, 14 May 2026 21:45:19 UTC
+
+President Trump @POTUS:
+"When President Xi very elegantly referred to the United States as perhaps being a declining nation, he was referring to the tremendous damage we suffered during the four years of Sleepy Joe Biden and the Biden Administration, and on that score, he was 100% correct. Our Country suffered immeasurably with open borders, high taxes, transgender for everybody, men in women’s sports, DEI, horrible trade deals, rampant crime, and so much more! President Xi was not referring to the incredible rise that the United States has displayed to the world during the 16 spectacular months of the Trump Administration, which includes all-time high stock markets and 401K’s, military victory and thriving relationship in Venezuela, the military decimation of Iran (to be continued!) — Strongest military on earth by far, economic powerhouse again, with a record 18 trillion dollars being invested into the United States by others, best U.S. job market in history, with more people working in the United States right now than ever before, ending country destroying DEI, and so many other things that it would be impossible to readily list. In fact, President Xi congratulated me on so many tremendous successes in such a short period of time.Two years ago, we were, in fact, a Nation in decline. On that, I fully agree with President Xi! But now, the United States is the hottest Nation anywhere in the world, and hopefully our relationship with China will be stronger and better than ever before!"
+
+ترجمه فارسی در بخش نظرات
+
+𝕏 · @shin_persian
+</div>
+
+## FarsiVOA — post 217776
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺وزارت امور خارجه آمریکا: ماموریت امحا اورانیوم غنی‌شده ونزوئلا به‌طور کامل اجرا شد
+
+◾️وزارت امور خارجه آمریکا روز پنجشنبه ۲۴ اردیبهشت در بیانیه‌ای اعلام کرد، اورانیوم‌های غنی شده ونزوئلا با درجه خلوص بالا که اوایل ماه جاری میلادی از ونزوئلا به آمریکا منتقل شده بود، در تاسیسات «ساوانا ریور سایت» متعلق به وزارت انرژی آمریکا در کارولینای جنوبی، امحا شد.
+
+⬇️ بیشتر بخوانید:
+https://ir.voanews.com/a/8150089.html
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217775
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺مارکو روبیو: واشنگتن از پکن برای حل بحران جمهوری اسلامی درخواست کمک نکرده است
+
+◾️مارکو روبیو، وزیر خارجه ایالات متحده، روز پنجشنبه ۲۴ اردیبهشت گفت دونالد ترامپ، رئیس جمهوری آمریکا، و شی جین‌پینگ، رئیس جمهوری چین، در دیدار خود در پکن درباره عملیات نظامی علیه جمهوری اسلامی، تنگه هرمز، و مسائل امنیتی خاورمیانه گفت‌وگو کرده‌اند، و هر دو طرف بر مخالفت با «نظامی‌سازی» تنگه هرمز تأکید کرده‌اند.
+
+⬇️ بیشتر بخوانید:
+https://ir.voanews.com/a/marco-rubio-nbc-interview-china-iran-hormuz-strait/8150078.html
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217774
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺پاداش ۲۰۰هزار دلاری اف‌بی‌آی برای اطلاعات منجر به دستگیری مامور سابق آمریکایی؛ مونیکا ویت به جاسوسی برای رژیم ایران متهم است
+
+◾️پلیس فدرال آمریکا، اف‌بی‌آی اعلام کرد که برای دریافت اطلاعاتی که منجر به دستگیری و محاکمه مونیکا ویت شود، ۲۰۰ هزار دلار پاداش گذاشته است.
+
+⬇️ بیشتر بخوانید:
+https://ir.voanews.com/a/8150083.html
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 14169
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14169_1778795771.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شبتون بخیر ❤️🥱
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 20157
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20157_1778795773.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ :
+
+وقتی رئیس‌جمهور شی به‌ طور محترمانه آمریکا را کشور در حال افول نامید، منظورش آسیب‌های عظیمی بود که طی چهار سال حکومت «جو خواب‌آلود» و دولت بایدن متحمل شدیم: مرزهای باز، مالیات‌های بالا، ورود ترنس‌ها به همه‌جا، مردان در ورزش‌های زنان، DEI، توافق‌های تجاری وحشتناک، جرم و جنایت گسترده و خیلی چیزهای دیگر!.
+
+دو سال پیش، ما واقعاً در حال افول بودیم، در این مورد با رئیس‌جمهور شی کاملاً موافقم! اما حالا آمریکا داغ‌ترین کشور جهان است و امیدوارم روابط ما با چین قوی‌تر و بهتر از همیشه باشد!
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20155
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ارسالی شما : اگر شیر و خورشید وصل نمیشه براتون، طبق راهنمای زیر عمل کنید. وارد بخش Options اپلیکیشن بشید، گزینه‌ی More Options رو انتخاب کنید و در قسمت CDN Edge IPs، آی‌پی زیر و در قسمت CDN SNI Hostname، نام دامنه زیر رو وارد کنید بعد OK رو بزنید. CDN…
+</div>
+
+## IranianMinds — post 20154
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ارسالی شما :
+
+اگر شیر و خورشید وصل نمیشه براتون، طبق راهنمای زیر عمل کنید.
+
+وارد بخش Options اپلیکیشن بشید، گزینه‌ی More Options رو انتخاب کنید و در قسمت CDN Edge IPs، آی‌پی زیر و در قسمت CDN SNI Hostname، نام دامنه زیر رو وارد کنید بعد OK رو بزنید.
+
+CDN Edge IPs: 151.101.192.223
+CDN SNI Hostname: python.org
+
+سپس به صفحه ی اصلی برگردید و START رو بزنید
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20152
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+امشب ویو ها بهتر شده
+بعضیاتون برگشتید
+
+امیدوارم بزودی همه برگردن
+</div>
+
+## IranianMinds — post 20151
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20151_1778795773.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پست خواهر جاویدنام سپهر ابراهیمی .
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20150
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20150_1778795774.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تو کوبا هم‌ مردم ریختن بیرون دارن اعتراض میکنن
+
+مردم کوبا روزانه حدود ۲۳ تا ۲۲ ساعت برق ندارن تو‌ بعضی مناطق
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 281058
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌ ‌ ‌ ‌ ‌ حساب محمدباقر قالیباف، رئیس مجلس شورای اسلامی ایران، در پستی تازه به گزارش روز گذشته درباره تورم و افزایش نرخ بهره در آمریکا به عنوان یکی از پیامدهای جنگ با ایران واکنش نشان داده و خطاب به دونالد ترامپ، رئیس جمهور آمریکا نوشته است: «پس شما در حال…
+</div>
+
+## BBCPersian — post 281057
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_281057_1778795775.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌ ‌ ‌ ‌ ‌
+حساب محمدباقر قالیباف، رئیس مجلس شورای اسلامی ایران، در پستی تازه به گزارش روز گذشته درباره تورم و افزایش نرخ بهره در آمریکا به عنوان یکی از پیامدهای جنگ با ایران واکنش نشان داده و خطاب به دونالد ترامپ، رئیس جمهور آمریکا نوشته است:
+
+«پس شما در حال تأمین مالی (پیت) هگست، مجری تلویزیونی شکست‌خورده، با نرخ‌هایی هستید که از سال ۲۰۰۷ بی‌سابقه بوده، تا او بتواند در حیاط خلوت ما در تنگه هرمز، نقش «وزیر جنگ» را بازی کند؟»
+
+حساب کاربری آقای قالیباف که از زمان آغاز جنگ آمریکا و اسرائیل علیه ایران، بارها واکنش‌های اغلب همراه با طعنه خطاب به دونالد ترامپ مورد توجه قرار گرفته است، در ادامه پست روز پنجشنبه - ۲۴ اردیبهشت - نوشته است:
+
+«می‌دانید چه چیزی دیوانه‌کننده‌تر از بدهی ۳۹ تریلیون دلاری است؟ این که برای تامین مالی این جنگ‌، نرخ بهره‌ای به اندازه دوران پیش از بحران مالی جهانی در سال ۲۰۰۸ بپردازید و در نهایت فقط یک بحران مالی جهانی جدید نصیب‌تان شود.»
+
+https://bbc.in/4f6noJB
+📷shahraranews
+@BBCPersian
+</div>
+
+## alonews — post 120052
+
+<div align="center">
+  <a href="telegram/content/alonews_120052_1778795776.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈توئیت جدید ترامپ:
+
+
+🔴وقتی رئیس‌جمهور شی به‌طرز بسیار ظریفی ایالات متحده را کشوری در حال افول نامید، احتمالاً منظورش آسیب عظیمی بود که ما در چهار سال دولت جو خواب‌آلود بایدن و دولت بایدن متحمل شدیم، و در این مورد او صد در صد درست می‌گفت. کشور ما به‌طور غیرقابل اندازه‌گیری از مرزهای باز، مالیات‌های بالا، تراجنسی بودن برای همه، مردان در ورزش زنان، DEI، توافقات تجاری وحشتناک، افزایش جرم و جنایت و خیلی چیزهای دیگر آسیب دیده است!
+
+
+🔴رئیس‌جمهور شی منظورش صعود شگفت‌انگیزی نبود که ایالات متحده در 16 ماه چشمگیر دولت ترامپ به جهان نشان داد، از جمله بازارهای سهام رکوردشکن و 401K، پیروزی نظامی و روابط شکوفا در ونزوئلا، شکست نظامی ایران (ادامه دارد!) — قوی‌ترین ارتش روی زمین، دوباره ابرقدرت اقتصادی با رکورد ۱۸ تریلیون دلار سرمایه‌گذاری شده در آمریکا توسط کشورهای دیگر، بهترین بازار کار در تاریخ آمریکا، با تعداد بیشتری از افراد شاغل نسبت به همیشه، پایان دادن به DEI که کشور را تخریب می‌کرد و بسیاری چیزهای دیگر که به‌راحتی نمی‌توان فهرست کرد. در واقع، رئیس‌جمهور شی مرا به خاطر این همه موفقیت بزرگ در مدت زمان کوتاه تبریک گفت.
+
+
+🔴دو سال پیش ما واقعاً کشوری در حال افول بودیم. در این مورد کاملاً با رئیس‌جمهور شی موافقم! اما اکنون ایالات متحده داغ‌ترین کشور جهان است و امیدوارم روابط ما با چین قوی‌تر و بهتر از همیشه شود!
+
+﻿
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 120051
+
+<div align="center">
+  <a href="telegram/content/alonews_120051_1778795776.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈فاکس نیوز :تو سفر ترامپ، بین مأموران سرویس مخفی آمریکا و پلیس چین، تنش ایجاد شده و درگیری لفظی و حتی فیزیکی هم پیش اومده
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 120050
+
+<div align="center">
+  <a href="telegram/content/alonews_120050_1778795777.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈عوستاد رائفی پور:
+آمریکایی‌ها متحد نیستن و بزودی تجزیه میشن
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 120049
+
+<div align="center">
+  <a href="telegram/content/alonews_120049_1778795777.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈تصویری وایرال شده از گلشیفته فراهانی و امانوئیل مکرون
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 120048
+
+<div align="center">
+  <a href="telegram/content/alonews_120048_1778795777.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈یدیعوت آحارونوت: اسرائیل می‌خواد اگه درگیری با ایران دوباره شروع بشه،تمرکزش روی زدن زیرساخت‌ها و اهداف انرژی باشه
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/25 00:14
 ---
 
